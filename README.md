@@ -1,6 +1,6 @@
-Calculate-folder-disk-capacity
-
-# Folder & Image Sizes Extractor
+# Calculate-folder-disk-capacity
+------------------------------
+## Folder & Image Sizes Extractor
 
 This script extracts sizes and allocated sizes of image files in a chosen directory and its subdirectories. Results can be saved in either `txt` or `excel` format.
 
