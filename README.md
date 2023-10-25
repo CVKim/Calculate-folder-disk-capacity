@@ -1,4 +1,4 @@
-# Calculate-folder-disk-capacity
+## Calculate-folder-disk-capacity
 
 # Folder & Image Sizes Extractor
 
